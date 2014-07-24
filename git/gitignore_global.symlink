@@ -1,0 +1,10 @@
+*.sw?
+.turbine
+.yardoc
+*.pyc
+*~
+.sass-cache
+.\#*
+\#*\#
+*.ibc
+*.agdai

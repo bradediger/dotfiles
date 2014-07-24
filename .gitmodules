@@ -1,0 +1,126 @@
+[submodule "vim.symlink/bundle/vim-pathogen"]
+	path = vim.symlink/bundle/vim-pathogen
+	url = git://github.com/tpope/vim-pathogen
+[submodule "vim.symlink/bundle/vim-ruby"]
+	path = vim.symlink/bundle/vim-ruby
+	url = git://github.com/vim-ruby/vim-ruby
+[submodule "vim.symlink/bundle/vim-haml"]
+	path = vim.symlink/bundle/vim-haml
+	url = git://github.com/tpope/vim-haml
+[submodule "vim.symlink/bundle/vim-rails"]
+	path = vim.symlink/bundle/vim-rails
+	url = git://github.com/tpope/vim-rails
+[submodule "vim.symlink/bundle/vim-javascript"]
+	path = vim.symlink/bundle/vim-javascript
+	url = git://github.com/pangloss/vim-javascript
+[submodule "vim.symlink/bundle/nerd_tree"]
+	path = vim.symlink/bundle/nerd_tree
+	url = git://github.com/scrooloose/nerdtree
+[submodule "vim.symlink/bundle/vim-rake"]
+	path = vim.symlink/bundle/vim-rake
+	url = git://github.com/tpope/vim-rake
+[submodule "vim.symlink/bundle/vim-surround"]
+	path = vim.symlink/bundle/vim-surround
+	url = git://github.com/tpope/vim-surround
+[submodule "vim.symlink/bundle/vim-endwise"]
+	path = vim.symlink/bundle/vim-endwise
+	url = git://github.com/tpope/vim-endwise
+[submodule "vim.symlink/bundle/vim-matchit"]
+	path = vim.symlink/bundle/vim-matchit
+	url = git://github.com/edsono/vim-matchit
+[submodule "vim.symlink/bundle/fuzzyfinder_textmate"]
+	path = vim.symlink/bundle/fuzzyfinder_textmate
+	url = git://github.com/jonuts/fuzzyfinder_textmate.git
+[submodule "vim.symlink/bundle/quickfixsigns"]
+	path = vim.symlink/bundle/quickfixsigns
+	url = git://github.com/tomtom/quickfixsigns_vim
+[submodule "vim.symlink/bundle/vim-fugitive"]
+	path = vim.symlink/bundle/vim-fugitive
+	url = git://github.com/tpope/vim-fugitive
+[submodule "vim.symlink/bundle/vim-git"]
+	path = vim.symlink/bundle/vim-git
+	url = git://github.com/tpope/vim-git
+[submodule "vim.symlink/bundle/vim-tcomment"]
+	path = vim.symlink/bundle/vim-tcomment
+	url = git://github.com/noxoc/vim-tcomment.git
+[submodule "vim.symlink/bundle/vim-cucumber"]
+	path = vim.symlink/bundle/vim-cucumber
+	url = git://github.com/tpope/vim-cucumber
+[submodule "vim.symlink/bundle/gitv"]
+	path = vim.symlink/bundle/gitv
+	url = git://github.com/gregsexton/gitv.git
+[submodule "vim.symlink/bundle/vim-colors-solarized"]
+	path = vim.symlink/bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized
+[submodule "vim.symlink/bundle/vim-coffee-script"]
+	path = vim.symlink/bundle/vim-coffee-script
+	url = git://github.com/kchmck/vim-coffee-script
+[submodule "vim.symlink/bundle/command-t"]
+	path = vim.symlink/bundle/command-t
+	url = git://git.wincent.com/command-t
+[submodule "vim.symlink/bundle/vimux"]
+	path = vim.symlink/bundle/vimux
+	url = git://github.com/benmills/vimux
+[submodule "vim.symlink/bundle/vimux-ruby-test"]
+	path = vim.symlink/bundle/vimux-ruby-test
+	url = git://github.com/pgr0ss/vimux-ruby-test
+[submodule "vim.symlink/bundle/VimClojure"]
+	path = vim.symlink/bundle/VimClojure
+	url = git://github.com/vim-scripts/VimClojure
+[submodule "vim.symlink/bundle/paredit.vim"]
+	path = vim.symlink/bundle/paredit.vim
+	url = git://github.com/vim-scripts/paredit.vim
+[submodule "vim.symlink/bundle/vim-powerline"]
+	path = vim.symlink/bundle/vim-powerline
+	url = git://github.com/Lokaltog/vim-powerline
+[submodule "vim.symlink/bundle/go.vim"]
+	path = vim.symlink/bundle/go.vim
+	url = git://github.com/fsouza/go.vim
+[submodule "vim.symlink/bundle/vim-bufsurf"]
+	path = vim.symlink/bundle/vim-bufsurf
+	url = git://github.com/ton/vim-bufsurf
+[submodule "vim.symlink/bundle/tComment"]
+	path = vim.symlink/bundle/tComment
+	url = git://github.com/vim-scripts/tComment
+[submodule "vim.symlink/bundle/vim-fireplace"]
+	path = vim.symlink/bundle/vim-fireplace
+	url = git://github.com/tpope/vim-fireplace
+[submodule "vim.symlink/bundle/vim-classpath"]
+	path = vim.symlink/bundle/vim-classpath
+	url = git://github.com/tpope/vim-classpath
+[submodule "vim.symlink/bundle/vim-clojure-static"]
+	path = vim.symlink/bundle/vim-clojure-static
+	url = git://github.com/guns/vim-clojure-static
+[submodule "vim.symlink/bundle/rainbow_parentheses"]
+	path = vim.symlink/bundle/rainbow_parentheses
+	url = git://github.com/kien/rainbow_parentheses.vim
+[submodule "vim.symlink/bundle/ag.vim"]
+	path = vim.symlink/bundle/ag.vim
+	url = git://github.com/epmatsw/ag.vim
+[submodule "vim.symlink/bundle/vim-turbux"]
+	path = vim.symlink/bundle/vim-turbux
+	url = git://github.com/jgdavey/vim-turbux
+[submodule "vim.symlink/bundle/vim-vim.symlink/bundler"]
+	path = vim.symlink/bundle/vim-vim.symlink/bundler
+	url = git://github.com/tpope/vim-vim.symlink/bundler
+[submodule "vim.symlink/bundle/vim-tmux-navigator"]
+	path = vim.symlink/bundle/vim-tmux-navigator
+	url = git://github.com/christoomey/vim-tmux-navigator
+[submodule "vim.symlink/bundle/tabular"]
+	path = vim.symlink/bundle/tabular
+	url = git://github.com/godlygeek/tabular
+[submodule "vim.symlink/bundle/vim-unimpaired"]
+	path = vim.symlink/bundle/vim-unimpaired
+	url = git://github.com/tpope/vim-unimpaired
+[submodule "vim.symlink/bundle/idris-vim"]
+	path = vim.symlink/bundle/idris-vim
+	url = git://github.com/idris-hackers/idris-vim
+[submodule "vim.symlink/bundle/vimshell"]
+	path = vim.symlink/bundle/vimshell
+	url = git://github.com/Shougo/vimshell
+[submodule "vim.symlink/bundle/vimproc"]
+	path = vim.symlink/bundle/vimproc
+	url = git://github.com/Shougo/vimproc
+[submodule "vim.symlink/bundle/Dockerfile.vim"]
+	path = vim.symlink/bundle/Dockerfile.vim
+	url = git://github.com/ekalinin/Dockerfile.vim
